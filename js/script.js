@@ -194,29 +194,3 @@ btnTheme.addEventListener("click", () => {
     btnClose.setAttribute("src", "./assets/close-dark.svg");
 });
 
-//
-//
-//
-//
-//
-//
-//
-//
-//
-// -made with lov by gui
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
