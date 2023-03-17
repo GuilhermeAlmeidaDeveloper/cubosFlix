@@ -193,3 +193,30 @@ btnTheme.addEventListener("click", () => {
     btnNext.setAttribute("src", "./assets/arrow-right-dark.svg");
     btnClose.setAttribute("src", "./assets/close-dark.svg");
 });
+
+//
+//
+//
+//
+//
+//
+//
+//
+//
+// -made with lov by gui
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
